@@ -1,1 +1,1 @@
-# My Data Jouney
+# My Data Journey

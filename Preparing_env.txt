@@ -1,0 +1,13 @@
+I'll keep some tips, so I can remember later if needed to rebuild:
+
+1) OS: Centos7 - 3.10.0-327.10.1.el7.x86_64 #1 SMP Tue Feb 16 17:03:50 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+
+2) Programming Language:  Will use Python 3.x 
+Python 3.4.3 (default, Jan 26 2016, 02:25:35) 
+[GCC 4.8.5 20150623 (Red Hat 4.8.5-4)] on linux
+
+3) Python Packages : PIP 
+For Python 3.4, I followed these steps to get PIP working for Python 3.4
+http://stackoverflow.com/questions/6587507/how-to-install-pip-with-python-3
+
+

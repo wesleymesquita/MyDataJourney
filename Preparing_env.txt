@@ -9,5 +9,17 @@ Python 3.4.3 (default, Jan 26 2016, 02:25:35)
 3) Python Packages : PIP 
 For Python 3.4, I followed these steps to get PIP working for Python 3.4
 http://stackoverflow.com/questions/6587507/how-to-install-pip-with-python-3
+TIP: Make sure you will be using easy_install for python3. if use easy_install for python 2, pip3 will use pip for Python 2.
 
+4) Pandas : pip3 install pandas
+
+5) IPython : pip3 install jupyter
+See http://jupyter.readthedocs.io/en/latest/install.html
+Maybe will be needed to install stuff for Python 3.4
+yum groupinstall 'Development Tools'
+yum install python3-devel
+
+6) Matplotlib:
+sudo easy_install-3.4  matplotlib
+install lib png using yum
 

@@ -22,4 +22,5 @@ yum install python3-devel
 6) Matplotlib:
 sudo easy_install-3.4  matplotlib
 install lib png using yum
+TK is also needed : sudo yum install python34-tkinter
 
